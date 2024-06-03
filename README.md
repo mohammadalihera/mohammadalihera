@@ -1,5 +1,5 @@
 # 💫 Mohammad Ali:
-I am a software enginner. I am currently working in app development and web development. Also work on backend and devOps related works. And very much pationate about problem solving
+Almost 4 years of professional experience in developing mobile applications and web applications using Flutter and React Js framework. Possess extensive experience in mentoring aspiring engineers, practicing best use cases during writing code. Familiar with Agile and Scrum working environments. Understanding mobile app design principles and using best practices during implementing applications. Enough experience in MVC pattern and Bloc pattern architecture. Exceptional communication, teamwork, and problem-solving skills while fostering collaborative relationships with project teams, colleagues, and clients.
 
 
 ## 🌐 Socials:
